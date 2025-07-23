@@ -19,8 +19,3 @@ Welcome to the **Intro to MCP** repository! I made this to become more familiar 
 4. run in dev mode ```npm run dev```
 5. OR run the server using ```npm start```
 6. to interact with the server in test mode and on stdio, you can run ```node dist/index.js``` then open another terminal and run the examples under example.txt
-
-## Requirements
-
-- Java Development Kit (JDK)
-- Python (for MCP scripts)
